@@ -5,5 +5,5 @@ git remote add origin https://github.com/chiou3qorz/secondgit.git
 
 git pull origin master
 
-git push -m origin master
+git push origin master
 PAUSE
